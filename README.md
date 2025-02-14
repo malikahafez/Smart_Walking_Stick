@@ -3,3 +3,5 @@ A walking stick designed for those who are visually impaired using an FPGA board
 ## Components
 IR sensor
 Touch sensor
+Vibrating motor
+Buzzer
